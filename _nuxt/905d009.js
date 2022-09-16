@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{690:function(n,t,e){"use strict";e.r(t);var c={},o=e(39),component=Object(o.a)(c,(function(){return(0,this._self._c)("div",[this._v("Sports page")])}),[],!1,null,"a1e3905c",null);t.default=component.exports}}]);

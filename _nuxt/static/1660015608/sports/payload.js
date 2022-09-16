@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/sports", {data:[{}],fetch:{},mutations:[]});
